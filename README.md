@@ -12,6 +12,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,mysql,git,github,visualstudio,vscode" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftsqlserver,visualbasic" />
 </div>
 
 <h2>Stats</h2>
