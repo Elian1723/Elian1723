@@ -11,8 +11,7 @@
 <h2 align="left">Skills</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,mysql,git,github,visualstudio,vscode" />
-  <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftsqlserver,visualbasic" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,vb,html,css,js,bootstrap,mysql,sqlserver,git,github,visualstudio,vscode" />
 </div>
 
 <h2>Stats</h2>
