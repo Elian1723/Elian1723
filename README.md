@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Elian1723.Elian1723" alt="Visitor badge"/>
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Elian1723.Elian1723" alt="Visitor badge"/> -->
 <!-- 
 <h1 align="left">Hey 👋 What's up?</h1>
 
