@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://www.linkedin.com/in/elian-barrios-j1723/" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+  </a>
+</p>
+
 <h3 align="center">👋 Hi, I’m Elián</h3>
 <p align="center"> I'm a programmer from Guatemala</p>
 
