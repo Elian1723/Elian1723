@@ -10,7 +10,9 @@
 -->
 <h2 align="left">Skills</h2>
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,html,css,js,bootstrap,mysql,sqlserver,git,github,visualstudio,vscode&perline=7)
 <div align="left">
+  
   <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,html,css,js,bootstrap" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,visualstudio,vscode" />
