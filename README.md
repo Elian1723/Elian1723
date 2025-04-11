@@ -1,22 +1,16 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Elian1723.Elian1723" alt="Visitor badge"/> -->
-<!-- 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h3 align="center">👋 Hi, I’m Elián</h3>
+<p align="center"> I'm a programmer from Guatemala</p>
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-<h2 align="left">About me</h2>
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
--->
+<!-- ## About Me -->
 
 ## Skills
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js,git,github,visualstudio,vscode&perline=7)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js&perline=7)
 
-### Frameworks
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,bootstrap,git,github,visualstudio,vscode&perline=7)
+### Technologies
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=dotnet,bootstrap&perline=7)
 
-### Datbases
+### Databases
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver&perline=7)
 
 ### Tools
