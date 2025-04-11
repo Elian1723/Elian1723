@@ -18,8 +18,8 @@
 
 ## Stats
 <div align="center">
-  <div align=center">
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Elian1723&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true" alt="readme stats" />
-    <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Elian1723&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </div>
+  <figure>
+    <img src="https://github-readme-stats.vercel.app/api?username=Elian1723&count_private=true&hide_border=true&theme=react&rank_icon=github" alt="Stats" />
+    <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Elian1723&langs_count=8&layout=compact&theme=react&hide_border=true" alt="top langs" />
+  </figure>
 </div>
