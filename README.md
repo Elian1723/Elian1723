@@ -8,17 +8,21 @@
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 -->
-<h2 align="left">Skills</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,html,css,js,bootstrap,mysql,sqlserver,git,github,visualstudio,vscode&perline=7)
-<div align="left">
-  
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,html,css,js,bootstrap" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,visualstudio,vscode" />
-</div>
+## Skills
+### Languages
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js,git,github,visualstudio,vscode&perline=7)
 
-<h2>Stats</h2>
+### Frameworks
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,bootstrap,git,github,visualstudio,vscode&perline=7)
+
+### Datbases
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver&perline=7)
+
+### Tools
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,visualstudio,vscode&perline=7)
+
+## Stats
 <div align="center">
   <div align=center">
     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Elian1723&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true" alt="readme stats" />
