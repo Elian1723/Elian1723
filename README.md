@@ -1,13 +1,8 @@
-<p align="right">
-  <a href="https://www.linkedin.com/in/elian-barrios/" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
-  </a>
-</p>
+[![Languages](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/elian_santizo)
+[![Languages](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/elian-barrios/)
 
 <h3 align="center">👋 Hi, I’m Elián</h3>
 <p align="center"> I'm a programmer from Guatemala</p>
-
-<!-- ## About Me -->
 
 ## Skills
 ### Languages
