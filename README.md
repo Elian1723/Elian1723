@@ -15,7 +15,7 @@
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver&perline=7)
 
 ### Environment
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,dbeaver,git,github,visualstudio,vscode&perline=7)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,dbeaver,git,github,visualstudio,vscode&perline=7)
 
 ## Stats
 <div align="center">
