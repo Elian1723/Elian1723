@@ -1,6 +1,6 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/elian_santizo)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/elian-barrios/)
-[![X](https://img.shields.io/badge/Duolingo-58cc02?logo=duolingo&logoColor=ffffff)](https://www.duolingo.com/profile/Elian_Barrios?via=share_profile_qr)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58cc02?logo=duolingo&logoColor=ffffff)](https://www.duolingo.com/profile/Elian_Barrios?via=share_profile_qr)
 
 <h3 align="center">👋 Hi, I’m Elián</h3>
 <p align="center"> I'm a programmer from Guatemala</p>
