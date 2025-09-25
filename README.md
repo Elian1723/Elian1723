@@ -7,7 +7,7 @@
 
 ## Skills
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js&perline=7)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,vb,python,html,css,js&perline=7)
 
 ### Frameworks & Libraries
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=dotnet,bootstrap&perline=7)
