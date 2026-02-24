@@ -20,7 +20,7 @@
 ## Stats
 <div align="center">
   
-  ![Elian's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Elian1723&include_all_commits=true&hide_border=true&theme=react&rank_icon=github&show_icons=true)
+  ![Elian's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Elian1723&include_all_commits=true&hide_border=true&theme=react&rank_icon=github&show_icons=true&custom_title=Elián's+GitHub+Stats)
   ![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Elian1723&langs_count=8&layout=compact&theme=react&hide_border=true)
   
 </div>
