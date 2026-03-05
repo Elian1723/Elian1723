@@ -9,7 +9,7 @@
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,vb,python,html,css,js,ts&perline=7)
 
 ### Frameworks & Libraries
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=dotnet,bootstrap&perline=7)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,bootstrap,tailwindcss&perline=7)
 
 ### Databases
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver&perline=7)
