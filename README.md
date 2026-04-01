@@ -2,7 +2,11 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/elian-barrios/)
 
 <h3 align="center">👋 Hi, I’m Elián</h3>
-<p align="center"> I'm a programmer from Guatemala</p>
+<p align="center"> I'm a software developer from Guatemala 🇬🇹</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elian1723&theme=github-dark-blue&hide_border=true&exclude_days=Sun%2CSat&hide_total_contributions=true" alt="GitHub Streak" /></a>
+</p>
 
 ## Skills
 ### Languages
