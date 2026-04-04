@@ -23,13 +23,21 @@
 
 ## Skills
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js,ts&perline=7)
+<a href="https://github.com/LelouchFR/skill-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js,ts&perline=7" alt="languages">
+</a>
 
 ### Frameworks & Libraries
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,bootstrap,tailwindcss,daisyui&perline=7)
+<a href="https://github.com/LelouchFR/skill-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,bootstrap,tailwindcss,daisyui&perline=7" alt="frameworks and libraries">
+</a>
 
 ### Databases
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver&perline=7)
+<a href="https://github.com/LelouchFR/skill-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver&perline=7" alt="databases">
+</a>
 
 ### Environment
-![Environment](https://go-skill-icons.vercel.app/api/icons?i=windows,popos,kitty,zen,dbeaver,visualstudio,vscode,docker,git,github,githubcopilot&perline=7)
+<a href="https://github.com/LelouchFR/skill-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,popos,kitty,zen,dbeaver,visualstudio,vscode,docker,git,github,githubcopilot&perline=7" alt="environment">
+</a>
