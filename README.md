@@ -29,7 +29,7 @@
 
 ### Frameworks & Libraries
 <a href="https://github.com/LelouchFR/skill-icons">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,bootstrap,tailwindcss,daisyui&perline=7" alt="frameworks and libraries">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,bootstrap,tailwindcss,daisyui,avaloniaui&perline=7" alt="frameworks and libraries">
 </a>
 
 ### Databases
